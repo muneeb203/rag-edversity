@@ -1,0 +1,310 @@
+[
+  {
+    "timestamp": "2026-09-19T11:28:22.340659",
+    "user_query": "hey",
+    "assistant_response": "I encountered an error. Let me connect you with a human agent.",
+    "confidence": 0.0,
+    "retrieved_sources": [
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-19T11:28:56.422983",
+    "user_query": "How do I access my course?",
+    "assistant_response": "I encountered an error. Let me connect you with a human agent.",
+    "confidence": 0.0,
+    "retrieved_sources": [
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-19T11:31:48.631444",
+    "user_query": "hey",
+    "assistant_response": "I encountered an error. Let me connect you with a human agent.",
+    "confidence": 0.0,
+    "retrieved_sources": [
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-19T11:31:53.909525",
+    "user_query": "tell me about courses",
+    "assistant_response": "I encountered an error. Let me connect you with a human agent.",
+    "confidence": 0.0,
+    "retrieved_sources": [
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-19T11:32:51.807274",
+    "user_query": "hello",
+    "assistant_response": "I encountered an error. Let me connect you with a human agent.",
+    "confidence": 0.0,
+    "retrieved_sources": [
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-19T11:32:57.481439",
+    "user_query": "tell me about courses",
+    "assistant_response": "I encountered an error. Let me connect you with a human agent.",
+    "confidence": 0.0,
+    "retrieved_sources": [
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-19T11:34:10.419050",
+    "user_query": "hey",
+    "assistant_response": "I encountered an error. Let me connect you with a human agent.",
+    "confidence": 0.0,
+    "retrieved_sources": [
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-19T11:35:26.202309",
+    "user_query": "hey",
+    "assistant_response": "I encountered an error. Let me connect you with a human agent.",
+    "confidence": 0.0,
+    "retrieved_sources": [
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-19T11:37:18.804463",
+    "user_query": "hey",
+    "assistant_response": "I encountered an error. Let me connect you with a human agent.",
+    "confidence": 0.0,
+    "retrieved_sources": [
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-19T11:38:17.653880",
+    "user_query": "hey",
+    "assistant_response": "I encountered an error. Let me connect you with a human agent.",
+    "confidence": 0.0,
+    "retrieved_sources": [
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-19T11:42:33.070243",
+    "user_query": "hello",
+    "assistant_response": "I encountered an error. Let me connect you with a human agent.",
+    "confidence": 0.0,
+    "retrieved_sources": [
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "FAQ",
+        "source_file": "faqs.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      },
+      {
+        "doc_type": "POLICY",
+        "source_file": "policies.md"
+      }
+    ]
+  }
+]
